@@ -1,6 +1,6 @@
 ## Weather_Forecast_Kaggle_Dataset
 
-
+Blog post: -https://medium.com/@joshi.abhay.m/weather-forecast-using-machine-learning-model-69db2fb0ae29
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
