@@ -2,7 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* dataset
+* [Dataset](#dataset)
 
 ## General info
 The Rain in Australia dataset contains 10 years of weather data that is recorded daily from different weather stations. The same of the data set
