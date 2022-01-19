@@ -88,9 +88,9 @@ RainTomorrow	-The amount of next day rain in mm. Used to create response variabl
 
  Low temperature and high humidity suggest that it will rain tomorrow and also it will be true for rain today.
  
-** Prepare the model with best accuracy and reduce overfitting **
+Prepare the model with best accuracy and reduce overfitting
 
- Using logistic regression 
+ **Using logistic regression**
  ![image](https://user-images.githubusercontent.com/15306750/150061592-6576ccf3-e8d1-4bc9-926d-1755edff335b.png)
  
  We have calculated the accuracy score on Training and Test set 
@@ -105,6 +105,11 @@ RainTomorrow	-The amount of next day rain in mm. Used to create response variabl
  
  Logistic regression identifies the best fit using all the features, we can try to fine tune the model by using ovarious standardization techniques .
 
-
+ **Important Features calculated from the model**
+ 
+ {'MinTemp': 0.98302,
+ 'MaxTemp': -1.61356,
+ 'Rainfall': 3.25713,
+ 'Evaporation': 0.7388}
 
 
